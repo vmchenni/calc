@@ -1,0 +1,6 @@
+int a ;
+int b;
+addFunction(a,b);
+public int addFunction(int a, int b){
+return a+b;
+}
