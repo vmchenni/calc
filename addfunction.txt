@@ -1,6 +1,6 @@
-int a ;
-int b;
-addFunction(a,b);
+int x;
+int y;
+addFunction(x,y);
 public int addFunction(int a, int b){
 return a+b;
 }
